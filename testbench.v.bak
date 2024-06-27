@@ -1,0 +1,128 @@
+`timescale 1ns / 1ps // Zaman ölçe?i tan?m?
+
+module CPU_Testbench;
+
+    // Declare signals
+    reg clk;
+    reg reset;
+    reg [15:0] instruction;
+    reg [7:0] reg_data1;
+    wire [7:0] pc, next_pc, pc_plus_2, branch_addr, jump_addr, sign_ext_out, alu_result, mem_data, reg_data2, alu_operand2, write_data;
+    wire [3:0] alu_op, reg_write_addr;
+    wire [2:0] funct;
+    wire zero, reg_dst, jump, jump_and_link, branch, mem_read, mem_write, mem_to_reg, alu_src, reg_write, mfhilo;
+    wire pc_src, branch_taken;
+    
+    // Instantiate the CPU module
+    CPU cpu_inst (
+        .clk(clk),
+        .reset(reset),
+        .pc(pc),
+        .next_pc(next_pc),
+        .pc_plus_2(pc_plus_2),
+        .branch_addr(branch_addr),
+        .jump_addr(jump_addr),
+        .sign_ext_out(sign_ext_out),
+        .alu_result(alu_result),
+        .mem_data(mem_data),
+        .reg_data1(reg_data1),
+        .reg_data2(reg_data2),
+        .alu_operand2(alu_operand2),
+        .write_data(write_data),
+        .instruction(instruction),
+        .alu_op(alu_op),
+        .reg_write_addr(reg_write_addr),
+        .funct(funct),
+        .zero(zero),
+        .reg_dst(reg_dst),
+        .jump(jump),
+        .jump_and_link(jump_and_link),
+        .branch(branch),
+        .mem_read(mem_read),
+        .mem_write(mem_write),
+        .mem_to_reg(mem_to_reg),
+        .alu_src(alu_src),
+        .reg_write(reg_write),
+        .mfhilo(mfhilo),
+        .pc_src(pc_src),
+        .branch_taken(branch_taken)
+    );
+    
+    // Clock generation process
+    always #5 clk = ~clk;
+    
+    // Initial reset
+    initial begin
+        clk = 0;
+        reset = 1;
+        #10 reset = 0;
+    end
+    
+    // Test scenario
+    initial begin
+        // Wait for 10 clock cycles after reset
+        #100;
+        
+        // Test 1: ADD operation
+        $display("Test 1: ADD operation");
+        instruction <= 16'b0000_0000_0000_0001; // ADD $t0, $t0, $zero
+        #10; // Wait for 10 clock cycles
+        
+        // Test 2: AND operation
+        $display("Test 2: AND operation");
+        instruction <= 16'b0000_0010_0000_0010; // AND $t0, $t0, $zero
+        #10; // Wait for 10 clock cycles
+        
+        // Test 3: XOR operation
+        $display("Test 3: XOR operation");
+        instruction <= 16'b0000_0100_0000_0100; // XOR $t0, $t0, $zero
+        #10; // Wait for 10 clock cycles
+        
+        // Test 4: Jump operation
+        $display("Test 4: Jump operation");
+        instruction <= 16'b1011_0000_0000_0000; // JAL 0
+        #10; // Wait for 10 clock cycles
+        
+        // Test 5: BEQ operation (branch taken)
+        $display("Test 5: BEQ operation (branch taken)");
+        instruction <= 16'b1000_0000_0000_0001; // BEQ $t0, $zero, 1
+        #10; // Wait for 10 clock cycles
+        
+        // Test 6: BEQ operation (branch not taken)
+        $display("Test 6: BEQ operation (branch not taken)");
+        reg_data1 <= 8'h01; // Set $t0 to 1
+        instruction <= 16'b1000_0000_0000_0010; // BEQ $t0, $zero, 2
+        #10; // Wait for 10 clock cycles
+        
+        // Test 7: BNE operation (branch taken)
+        $display("Test 7: BNE operation (branch taken)");
+        reg_data1 <= 8'h01; // Set $t0 to 1
+        instruction <= 16'b1001_0000_0000_0001; // BNE $t0, $zero, 1
+        #10; // Wait for 10 clock cycles
+        
+        // Test 8: BNE operation (branch not taken)
+        $display("Test 8: BNE operation (branch not taken)");
+        instruction <= 16'b1001_0000_0000_0010; // BNE $t0, $zero, 2
+        #10; // Wait for 10 clock cycles
+        
+        // Test 9: MULI operation
+        $display("Test 9: MULI operation");
+        instruction <= 16'b0101_0000_0000_0010; // MULI $t0, $t0, 2
+        #10; // Wait for 10 clock cycles
+        
+        // Test 10: MFHI operation
+        $display("Test 10: MFHI operation");
+        instruction <= 16'b0000_0000_0000_1000; // MFHI $t0
+        #10; // Wait for 10 clock cycles
+        
+        // Test 11: MFLO operation
+        $display("Test 11: MFLO operation");
+        instruction <= 16'b0000_0000_0000_1010; // MFLO $t0
+        #10; // Wait for 10 clock cycles
+        
+        // End of tests
+        $display("End of tests");
+        $finish;
+    end
+    
+endmodule

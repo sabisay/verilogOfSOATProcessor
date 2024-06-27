@@ -1,0 +1,17 @@
+module Adder (
+    input [7:0] a,
+    input [7:0] b,
+    output [7:0] result
+);
+    assign result = a + b;
+endmodule
+
+module AdderBy2 (
+    input [7:0] a,
+    input b,
+    output [7:0] result
+);
+
+    b = 2;
+    assign result = a + b;
+endmodule

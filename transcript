@@ -1,0 +1,610 @@
+# Reading C:/intelFPGA/18.1/modelsim_ase/tcl/vsim/pref.tcl
+# Project file C:/intelFPGA/18.1/SingleCycleProcessorSOAT.mpf was not found.
+# Unable to open project.
+# Loading project SOAT_Single_Cycle_Processor
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v failed with 3 errors.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 1 failed with 3 errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v failed with 3 errors.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 1 failed with 3 errors.
+# Error opening C:/intelFPGA/18.1/(vlog-13069) C:/intelFPGA/18.1/ControlUnit.v
+# Path name 'C:/intelFPGA/18.1/(vlog-13069) C:/intelFPGA/18.1/ControlUnit.v' doesn't exist.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v failed with 3 errors.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 1 failed with 3 errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v failed with 1 errors.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 1 failed with 1 error.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v failed with 3 errors.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 1 failed with 3 errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# 11 compiles, 0 failed with no errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# Compile of ALU_Control.v was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# Compile of ALU_Control.v was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of Adder.v was successful.
+# Compile of Adder.v failed with 2 errors.
+# Compile of Adder.v failed with 2 errors.
+# Compile of Adder.v was successful.
+# Compile of Processor.v was successful.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v failed with 13 errors.
+# Compile of Mux.v was successful.
+# Compile of ALU_Control.v was successful.
+# 12 compiles, 1 failed with 13 errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# Compile of ALU_Control.v was successful.
+# 12 compiles, 0 failed with no errors.
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# Compile of ALU_Control.v was successful.
+# 12 compiles, 0 failed with no errors.
+vsim -gui work.CPU_Testbench
+# vsim -gui work.CPU_Testbench 
+# Start time: 16:03:37 on Jun 27,2024
+# Loading work.CPU_Testbench
+# Loading work.CPU
+# Loading work.PC
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.Mux2to1
+# Loading work.ALU
+# Loading work.DataMemory
+# Loading work.PCAdder
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'next_pc' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_plus_2' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_addr' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_addr' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'sign_ext_out' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_result' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_data' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data1' not found in the connected module (11th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data2' not found in the connected module (12th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_operand2' not found in the connected module (13th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'write_data' not found in the connected module (14th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'instruction' not found in the connected module (15th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_op' not found in the connected module (16th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write_addr' not found in the connected module (17th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'funct' not found in the connected module (18th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'zero' not found in the connected module (19th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_dst' not found in the connected module (20th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump' not found in the connected module (21st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_and_link' not found in the connected module (22nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch' not found in the connected module (23rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_read' not found in the connected module (24th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_write' not found in the connected module (25th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_to_reg' not found in the connected module (26th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_src' not found in the connected module (27th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write' not found in the connected module (28th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mfhilo' not found in the connected module (29th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_src' not found in the connected module (30th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_taken' not found in the connected module (31st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Fatal: (vsim-3365) C:/intelFPGA/18.1/testbench.v(17): Too many port connections. Expected 2, found 31.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 16:03:37 on Jun 27,2024, Elapsed time: 0:00:00
+# Errors: 30, Warnings: 0
+vsim -gui work.CPU_Testbench
+# vsim -gui work.CPU_Testbench 
+# Start time: 16:04:35 on Jun 27,2024
+# Loading work.CPU_Testbench
+# Loading work.CPU
+# Loading work.PC
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.Mux2to1
+# Loading work.ALU
+# Loading work.DataMemory
+# Loading work.PCAdder
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'next_pc' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_plus_2' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_addr' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_addr' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'sign_ext_out' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_result' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_data' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data1' not found in the connected module (11th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data2' not found in the connected module (12th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_operand2' not found in the connected module (13th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'write_data' not found in the connected module (14th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'instruction' not found in the connected module (15th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_op' not found in the connected module (16th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write_addr' not found in the connected module (17th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'funct' not found in the connected module (18th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'zero' not found in the connected module (19th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_dst' not found in the connected module (20th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump' not found in the connected module (21st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_and_link' not found in the connected module (22nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch' not found in the connected module (23rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_read' not found in the connected module (24th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_write' not found in the connected module (25th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_to_reg' not found in the connected module (26th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_src' not found in the connected module (27th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write' not found in the connected module (28th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mfhilo' not found in the connected module (29th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_src' not found in the connected module (30th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_taken' not found in the connected module (31st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Fatal: (vsim-3365) C:/intelFPGA/18.1/testbench.v(17): Too many port connections. Expected 2, found 31.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 16:04:35 on Jun 27,2024, Elapsed time: 0:00:00
+# Errors: 30, Warnings: 0
+# Compile of ALU.v was successful.
+# Compile of DataMemory.v was successful.
+# Compile of InstructionMemory.v was successful.
+# Compile of Adder.v was successful.
+# Compile of ControlUnit.v was successful.
+# Compile of PC.v was successful.
+# Compile of Processor.v was successful.
+# Compile of RegisterFile.v was successful.
+# Compile of SignExtend.v was successful.
+# Compile of testbench.v was successful.
+# Compile of Mux.v was successful.
+# Compile of ALU_Control.v was successful.
+# 12 compiles, 0 failed with no errors.
+vsim -gui work.CPU_Testbench
+# vsim -gui work.CPU_Testbench 
+# Start time: 16:14:06 on Jun 27,2024
+# Loading work.CPU_Testbench
+# Loading work.CPU
+# Loading work.PC
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.Mux2to1
+# Loading work.ALU
+# Loading work.DataMemory
+# Loading work.PCAdder
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'next_pc' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_plus_2' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_addr' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_addr' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'sign_ext_out' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_result' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_data' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data1' not found in the connected module (11th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data2' not found in the connected module (12th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_operand2' not found in the connected module (13th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'write_data' not found in the connected module (14th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'instruction' not found in the connected module (15th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_op' not found in the connected module (16th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write_addr' not found in the connected module (17th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'funct' not found in the connected module (18th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'zero' not found in the connected module (19th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_dst' not found in the connected module (20th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump' not found in the connected module (21st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_and_link' not found in the connected module (22nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch' not found in the connected module (23rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_read' not found in the connected module (24th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_write' not found in the connected module (25th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_to_reg' not found in the connected module (26th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_src' not found in the connected module (27th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write' not found in the connected module (28th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mfhilo' not found in the connected module (29th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_src' not found in the connected module (30th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_taken' not found in the connected module (31st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Fatal: (vsim-3365) C:/intelFPGA/18.1/testbench.v(17): Too many port connections. Expected 2, found 31.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 16:14:06 on Jun 27,2024, Elapsed time: 0:00:00
+# Errors: 30, Warnings: 0
+vsim -gui work.CPU_Testbench
+# vsim -gui work.CPU_Testbench 
+# Start time: 16:14:29 on Jun 27,2024
+# Loading work.CPU_Testbench
+# Loading work.CPU
+# Loading work.PC
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.Mux2to1
+# Loading work.ALU
+# Loading work.DataMemory
+# Loading work.PCAdder
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc' not found in the connected module (3rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'next_pc' not found in the connected module (4th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_plus_2' not found in the connected module (5th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_addr' not found in the connected module (6th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_addr' not found in the connected module (7th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'sign_ext_out' not found in the connected module (8th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_result' not found in the connected module (9th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_data' not found in the connected module (10th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data1' not found in the connected module (11th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_data2' not found in the connected module (12th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_operand2' not found in the connected module (13th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'write_data' not found in the connected module (14th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'instruction' not found in the connected module (15th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_op' not found in the connected module (16th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write_addr' not found in the connected module (17th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'funct' not found in the connected module (18th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'zero' not found in the connected module (19th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_dst' not found in the connected module (20th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump' not found in the connected module (21st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'jump_and_link' not found in the connected module (22nd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch' not found in the connected module (23rd connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_read' not found in the connected module (24th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_write' not found in the connected module (25th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mem_to_reg' not found in the connected module (26th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'alu_src' not found in the connected module (27th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'reg_write' not found in the connected module (28th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'mfhilo' not found in the connected module (29th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'pc_src' not found in the connected module (30th connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Error: (vsim-3389) C:/intelFPGA/18.1/testbench.v(17): Port 'branch_taken' not found in the connected module (31st connection).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# ** Fatal: (vsim-3365) C:/intelFPGA/18.1/testbench.v(17): Too many port connections. Expected 2, found 31.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst File: C:/intelFPGA/18.1/Processor.v
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 16:14:29 on Jun 27,2024, Elapsed time: 0:00:00
+# Errors: 30, Warnings: 0
+# Compile of testbench.v was successful.
+vsim -gui work.CPU_Testbench
+# vsim -gui work.CPU_Testbench 
+# Start time: 16:15:35 on Jun 27,2024
+# Loading work.CPU_Testbench
+# Loading work.CPU
+# Loading work.PC
+# Loading work.InstructionMemory
+# Loading work.ControlUnit
+# Loading work.RegisterFile
+# Loading work.SignExtend
+# Loading work.Mux2to1
+# Loading work.ALU
+# Loading work.DataMemory
+# Loading work.PCAdder
+# ** Warning: (vsim-3015) C:/intelFPGA/18.1/Processor.v(48): [PCDPC] - Port size (4) does not match connection size (3) for port 'read_reg1'. The port definition is at: C:/intelFPGA/18.1/RegisterFile.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst/reg_file_inst File: C:/intelFPGA/18.1/RegisterFile.v
+# ** Warning: (vsim-3015) C:/intelFPGA/18.1/Processor.v(48): [PCDPC] - Port size (4) does not match connection size (3) for port 'read_reg2'. The port definition is at: C:/intelFPGA/18.1/RegisterFile.v(4).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst/reg_file_inst File: C:/intelFPGA/18.1/RegisterFile.v
+# ** Warning: (vsim-3015) C:/intelFPGA/18.1/Processor.v(74): [PCDPC] - Port size (4) does not match connection size (3) for port 'shamt'. The port definition is at: C:/intelFPGA/18.1/ALU.v(5).
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_Testbench/cpu_inst/alu_inst File: C:/intelFPGA/18.1/ALU.v
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/ALUOp
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/ALUSrc
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/Branch
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/Jump
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/JumpAndLink
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/MemRead
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/MemWrite
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/MemtoReg
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/MfhiLo_
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/RegDst
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/RegWrite
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/funct
+add wave -position end  sim:/CPU_Testbench/cpu_inst/control_unit_inst/opcode
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/clk
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/read_data1
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/read_data2
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/read_reg1
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/read_reg2
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/reg_write
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/registers
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/write_data
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_file_inst/write_reg
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/address
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/clk
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/mem_read
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/mem_write
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/memory
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/read_data
+add wave -position end  sim:/CPU_Testbench/cpu_inst/data_mem_inst/write_data
+add wave -position end  sim:/CPU_Testbench/cpu_inst/alu_op
+add wave -position end  sim:/CPU_Testbench/cpu_inst/alu_operand2
+add wave -position end  sim:/CPU_Testbench/cpu_inst/alu_result
+add wave -position end  sim:/CPU_Testbench/cpu_inst/alu_src
+add wave -position end  sim:/CPU_Testbench/cpu_inst/branch
+add wave -position end  sim:/CPU_Testbench/cpu_inst/branch_addr
+add wave -position end  sim:/CPU_Testbench/cpu_inst/branch_taken
+add wave -position end  sim:/CPU_Testbench/cpu_inst/clk
+add wave -position end  sim:/CPU_Testbench/cpu_inst/funct
+add wave -position end  sim:/CPU_Testbench/cpu_inst/instruction
+add wave -position end  sim:/CPU_Testbench/cpu_inst/jump
+add wave -position end  sim:/CPU_Testbench/cpu_inst/jump_addr
+add wave -position end  sim:/CPU_Testbench/cpu_inst/jump_and_link
+add wave -position end  sim:/CPU_Testbench/cpu_inst/mem_data
+add wave -position end  sim:/CPU_Testbench/cpu_inst/mem_read
+add wave -position end  sim:/CPU_Testbench/cpu_inst/mem_to_reg
+add wave -position end  sim:/CPU_Testbench/cpu_inst/mem_write
+add wave -position end  sim:/CPU_Testbench/cpu_inst/mfhilo
+add wave -position end  sim:/CPU_Testbench/cpu_inst/next_pc
+add wave -position end  sim:/CPU_Testbench/cpu_inst/pc
+add wave -position end  sim:/CPU_Testbench/cpu_inst/pc_plus_2
+add wave -position end  sim:/CPU_Testbench/cpu_inst/pc_src
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_data1
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_data2
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_dst
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_write
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reg_write_addr
+add wave -position end  sim:/CPU_Testbench/cpu_inst/reset
+add wave -position end  sim:/CPU_Testbench/cpu_inst/sign_ext_out
+add wave -position end  sim:/CPU_Testbench/cpu_inst/write_data
+add wave -position end  sim:/CPU_Testbench/cpu_inst/zero
+add wave -position 29  sim:/CPU_Testbench/cpu_inst/alu_op
+add wave -position 30  sim:/CPU_Testbench/cpu_inst/alu_operand2
+add wave -position 31  sim:/CPU_Testbench/cpu_inst/alu_result
+add wave -position 32  sim:/CPU_Testbench/cpu_inst/alu_src
+add wave -position 33  sim:/CPU_Testbench/cpu_inst/branch
+add wave -position 34  sim:/CPU_Testbench/cpu_inst/branch_addr
+add wave -position 35  sim:/CPU_Testbench/cpu_inst/branch_taken
+add wave -position 36  sim:/CPU_Testbench/cpu_inst/clk
+add wave -position 37  sim:/CPU_Testbench/cpu_inst/funct
+add wave -position 38  sim:/CPU_Testbench/cpu_inst/instruction
+add wave -position 39  sim:/CPU_Testbench/cpu_inst/jump
+add wave -position 40  sim:/CPU_Testbench/cpu_inst/jump_addr
+add wave -position 41  sim:/CPU_Testbench/cpu_inst/jump_and_link
+add wave -position 42  sim:/CPU_Testbench/cpu_inst/mem_data
+add wave -position 43  sim:/CPU_Testbench/cpu_inst/mem_read
+add wave -position 44  sim:/CPU_Testbench/cpu_inst/mem_to_reg
+add wave -position 45  sim:/CPU_Testbench/cpu_inst/mem_write
+add wave -position 46  sim:/CPU_Testbench/cpu_inst/mfhilo
+add wave -position 47  sim:/CPU_Testbench/cpu_inst/next_pc
+add wave -position 48  sim:/CPU_Testbench/cpu_inst/pc
+add wave -position 49  sim:/CPU_Testbench/cpu_inst/pc_plus_2
+add wave -position 50  sim:/CPU_Testbench/cpu_inst/pc_src
+add wave -position 51  sim:/CPU_Testbench/cpu_inst/reg_data1
+add wave -position 52  sim:/CPU_Testbench/cpu_inst/reg_data2
+add wave -position 53  sim:/CPU_Testbench/cpu_inst/reg_dst
+add wave -position 54  sim:/CPU_Testbench/cpu_inst/reg_write
+add wave -position 55  sim:/CPU_Testbench/cpu_inst/reg_write_addr
+add wave -position 56  sim:/CPU_Testbench/cpu_inst/reset
+add wave -position 57  sim:/CPU_Testbench/cpu_inst/sign_ext_out
+add wave -position 58  sim:/CPU_Testbench/cpu_inst/write_data
+add wave -position 59  sim:/CPU_Testbench/cpu_inst/zero
+run
+run
+run
+add wave -position 1  sim:/CPU_Testbench/cpu_inst/mem_to_reg_mux/in0
+add wave -position 2  sim:/CPU_Testbench/cpu_inst/mem_to_reg_mux/in1
+add wave -position 3  sim:/CPU_Testbench/cpu_inst/mem_to_reg_mux/out
+add wave -position 4  sim:/CPU_Testbench/cpu_inst/mem_to_reg_mux/sel
+add wave -position 1  sim:/CPU_Testbench/cpu_inst/pc_inst/clk
+add wave -position 2  sim:/CPU_Testbench/cpu_inst/pc_inst/next_pc
+add wave -position 3  sim:/CPU_Testbench/cpu_inst/pc_inst/pc
+add wave -position 4  sim:/CPU_Testbench/cpu_inst/pc_inst/reset
+# End time: 17:12:52 on Jun 27,2024, Elapsed time: 0:57:17
+# Errors: 0, Warnings: 3
